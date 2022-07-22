@@ -1,0 +1,8 @@
+presidio_anonymizer
+presidio_analyzer
+https://huggingface.co/spacy/en_core_web_lg/resolve/main/en_core_web_lg-any-py3-none-any.whl
+spacy
+cryptography==36.0.2
+fastapi
+uvicorn
+pandas
